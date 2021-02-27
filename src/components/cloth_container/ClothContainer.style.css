@@ -1,0 +1,17 @@
+.btmBar {
+  margin-top: 10px;
+  border-bottom: 3px solid yellow;
+}
+.al-center {
+  text-align: center;
+}
+.cloth-container {
+  position: relative;
+  min-height: 480px;
+  margin-bottom: 40px;
+}
+.btm-btn {
+  margin-top: auto;
+  position: absolute;
+  bottom: 0;
+}
